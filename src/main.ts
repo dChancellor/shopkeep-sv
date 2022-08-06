@@ -1,0 +1,1 @@
+export {default as ShopkeepThemeProvider} from './lib/providers/ShopkeepThemeProvider.svelte'
